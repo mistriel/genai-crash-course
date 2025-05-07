@@ -1,0 +1,82 @@
+[
+  {
+    "name": "TCL 43P635",
+    "brand": "TCL",
+    "size": 43,
+    "OS": "AndroidTV",
+    "panel": "LED",
+    "price": 300
+  },
+  {
+    "name": "TCL 65P615",
+    "brand": "TCL",
+    "size": 65,
+    "OS": "AndroidTV",
+    "panel": "LED",
+    "price": 500
+  },
+  {
+    "name": "TCL 75P615",
+    "brand": "TCL",
+    "size": 75,
+    "OS": "AndroidTV",
+    "panel": "LED",
+    "price": 800
+  },
+  {
+    "name": "TCL 98C735",
+    "brand": "TCL",
+    "size": 98,
+    "OS": "AndroidTV",
+    "panel": "LED",
+    "price": 2000
+  },
+  {
+    "name": "TCL 65C735",
+    "brand": "TCL",
+    "size": 65,
+    "OS": "AndroidTV",
+    "panel": "QLED",
+    "price": 1000
+  },
+  {
+    "name": "Hisense 55U7QFIL",
+    "brand": "Hisense",
+    "size": 55,
+    "OS": "VIDAA U4",
+    "panel": "Quantom ULED",
+    "price": 600
+  },
+  {
+    "name": "Hisense 65U8QFILO",
+    "brand": "Hisense",
+    "size": 65,
+    "OS": "VIDAA U4",
+    "panel": "Quantom ULED",
+    "price": 900
+  },
+  {
+    "name": "Hisense 50A6K",
+    "brand": "Hisense",
+    "size": 50,
+    "OS": "VIDAA U6",
+    "panel": "LED",
+    "price": 400
+  },
+  {
+    "name": "Xiaomi L55M6-6ESG",
+    "brand": "Xiaomi",
+    "size": 55,
+    "OS": "AndroidTV",
+    "panel": "QLED",
+    "price": 500
+  },
+  {
+    "name": "Xiaomi L65M5-5ASP",
+    "brand": "Xiaomi",
+    "size": 65,
+    "OS": "AndroidTV",
+    "panel": "LED",
+    "price": 700
+  }
+]
