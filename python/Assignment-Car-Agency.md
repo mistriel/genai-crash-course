@@ -25,7 +25,7 @@ In the `resources` folder, you will find a JSON file named `car_agency_inventory
 * `Color Integrity`: Array of tuples, where each tuple is `(IssueType: String, Quantity: Integer)`. IssueType can be "Dent", "Scratch", "Chips", or "Bend". Example: `[("Dent", 3), ("Chips", 1)]`
 * `Accident History`: List of strings, indicating types of damage from accidents. Allowed values: "Dent", "Scratch", "PaintChips", "InteriorDamage", "Mechanical", "Chassis". Repetition of types is possible. Example: `["Chassis", "Mechanical"]`
 
-## Cost Reduction Rules (Applied during Evaluation):**
+## Cost Reduction Rules (Applied during Evaluation):
 
 * **Mileage:**
     * `> 250,000`: 30% reduction from Market Price

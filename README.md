@@ -5,17 +5,35 @@ The goal is to provide a comprehensive knowledge center for developers, research
 
 Many of the resources are curated as Jupyter Notebooks, which can be easily run in your IDE or in Google Colab.
 
+# Prerequisites
+* IntelliJ/VS Code IDE
+* Python 3.11 or higher
+* AWS account with IAM role that grant access to Bedrock APIs (for AWS Bedrock examples)
+
+
 ## Setup
+
+### Clone the repository
+
+```shell
+git clone git@github.com:mistriel/genai-crash-course.git
+```
+
+### Install required plugins
 
 Make sure your IntelliJ IDE is set up with the following plugins:
 - [Python](https://www.jetbrains.com/help/idea/getting-started-with-python.html)
 - [Jupyter](https://www.jetbrains.com/help/idea/jupyter-support.html)
 
-## Table of Contents
+### AWS Access
+Make sure you have permissions in your AWS account to `invokeModel`
 
-- [Python 101 - A Python crash course for novice developers](python\python-101.ipynb)
-- LLM Applications
-  - [AWS Bedrock](llm/bedrock-model-usage.ipynb)
+1.	Open AWS Management Console
+2.	Open IAM 
+3.	Open Roles
+4.  Find the role you are logged in with 
+5. Invoke this command on the CLI and make sure "EvalDecision": "allowed"(with my role as example):
 
-
-## Contributing
+```shell
+aws iam simulate-principal-policy --action-names bedrock:InvokeModel --resource-arns "*" --policy-source-arn "arn:aws:iam::833463464384:role/AMN_DeveloperRole"
+```
