@@ -1,0 +1,883 @@
+[
+  {
+    "Name": "Camry",
+    "Model": "SE",
+    "Brand": "Toyota",
+    "Year": 2023,
+    "MarketPrice": 28500,
+    "Mileage": 18000,
+    "Previous Owners": 1,
+    "Color Integrity": [],
+    "Accident History": []
+  },
+  {
+    "Name": "Civic",
+    "Model": "EX-L",
+    "Brand": "Honda",
+    "Year": 2022,
+    "MarketPrice": 26000,
+    "Mileage": 32000,
+    "Previous Owners": 1,
+    "Color Integrity": [
+      ["Scratch", 2]
+    ],
+    "Accident History": []
+  },
+  {
+    "Name": "F-150",
+    "Model": "Lariat",
+    "Brand": "Ford",
+    "Year": 2021,
+    "MarketPrice": 45000,
+    "Mileage": 58000,
+    "Previous Owners": 2,
+    "Color Integrity": [
+      ["Dent", 1],
+      ["Chips", 3]
+    ],
+    "Accident History": [
+      "Dent"
+    ]
+  },
+  {
+    "Name": "Silverado 1500",
+    "Model": "LTZ",
+    "Brand": "Chevrolet",
+    "Year": 2020,
+    "MarketPrice": 43000,
+    "Mileage": 72000,
+    "Previous Owners": 1,
+    "Color Integrity": [
+      ["Chips", 5]
+    ],
+    "Accident History": [
+      "InteriorDamage"
+    ]
+  },
+  {
+    "Name": "3 Series",
+    "Model": "330i",
+    "Brand": "BMW",
+    "Year": 2019,
+    "MarketPrice": 36000,
+    "Mileage": 92000,
+    "Previous Owners": 2,
+    "Color Integrity": [],
+    "Accident History": []
+  },
+  {
+    "Name": "C-Class",
+    "Model": "C300",
+    "Brand": "Mercedes-Benz",
+    "Year": 2018,
+    "MarketPrice": 33000,
+    "Mileage": 125000,
+    "Previous Owners": 3,
+    "Color Integrity": [
+      ["Scratch", 5],
+      ["Dent", 2],
+      ["Chips", 4]
+    ],
+    "Accident History": [
+      "Mechanical"
+    ]
+  },
+  {
+    "Name": "A4",
+    "Model": "Premium Plus",
+    "Brand": "Audi",
+    "Year": 2017,
+    "MarketPrice": 29000,
+    "Mileage": 155000,
+    "Previous Owners": 2,
+    "Color Integrity": [
+      ["Chips", 10]
+    ],
+    "Accident History": [
+      "Chassis"
+    ]
+  },
+  {
+    "Name": "Golf",
+    "Model": "TSI",
+    "Brand": "Volkswagen",
+    "Year": 2016,
+    "MarketPrice": 19000,
+    "Mileage": 185000,
+    "Previous Owners": 4,
+    "Color Integrity": [
+      ["Dent", 3],
+      ["Scratch", 8],
+      ["Bend", 1]
+    ],
+    "Accident History": [
+      "Chassis",
+      "Dent"
+    ]
+  },
+  {
+    "Name": "Sentra",
+    "Model": "SR",
+    "Brand": "Nissan",
+    "Year": 2015,
+    "MarketPrice": 13000,
+    "Mileage": 205000,
+    "Previous Owners": 1,
+    "Color Integrity": [
+      ["Chips", 15]
+    ],
+    "Accident History": []
+  },
+  {
+    "Name": "Elantra",
+    "Model": "Limited",
+    "Brand": "Hyundai",
+    "Year": 2014,
+    "MarketPrice": 11000,
+    "Mileage": 225000,
+    "Previous Owners": 3,
+    "Color Integrity": [
+      ["Bend", 1],
+      ["Dent", 2]
+    ],
+    "Accident History": [
+      "Mechanical"
+    ]
+  },
+  {
+    "Name": "Optima",
+    "Model": "SX",
+    "Brand": "Kia",
+    "Year": 2013,
+    "MarketPrice": 10000,
+    "Mileage": 255000,
+    "Previous Owners": 4,
+    "Color Integrity": [
+      ["Dent", 5],
+      ["Chips", 10],
+      ["Scratch", 10]
+    ],
+    "Accident History": [
+      "Chassis",
+      "InteriorDamage"
+    ]
+  },
+  {
+    "Name": "Outback",
+    "Model": "Limited",
+    "Brand": "Subaru",
+    "Year": 2012,
+    "MarketPrice": 9000,
+    "Mileage": 285000,
+    "Previous Owners": 2,
+    "Color Integrity": [],
+    "Accident History": [
+      "Chassis",
+      "Mechanical"
+    ]
+  },
+  {
+    "Name": "Mazda3",
+    "Model": "Preferred",
+    "Brand": "Mazda",
+    "Year": 2024,
+    "MarketPrice": 27000,
+    "Mileage": 6000,
+    "Previous Owners": 0,
+    "Color Integrity": [],
+    "Accident History": []
+  },
+  {
+    "Name": "Corolla",
+    "Model": "LE",
+    "Brand": "Toyota",
+    "Year": 2023,
+    "MarketPrice": 24000,
+    "Mileage": 22000,
+    "Previous Owners": 1,
+    "Color Integrity": [
+      ["Scratch", 1]
+    ],
+    "Accident History": []
+  },
+  {
+    "Name": "Accord",
+    "Model": "EX",
+    "Brand": "Honda",
+    "Year": 2022,
+    "MarketPrice": 28000,
+    "Mileage": 38000,
+    "Previous Owners": 1,
+    "Color Integrity": [
+      ["Dent", 1],
+      ["Chips", 2]
+    ],
+    "Accident History": []
+  },
+  {
+    "Name": "Escape",
+    "Model": "Titanium",
+    "Brand": "Ford",
+    "Year": 2021,
+    "MarketPrice": 25000,
+    "Mileage": 42000,
+    "Previous Owners": 1,
+    "Color Integrity": [
+      ["Chips", 4]
+    ],
+    "Accident History": [
+      "Dent"
+    ]
+  },
+  {
+    "Name": "Equinox",
+    "Model": "Premier",
+    "Brand": "Chevrolet",
+    "Year": 2020,
+    "MarketPrice": 22000,
+    "Mileage": 62000,
+    "Previous Owners": 2,
+    "Color Integrity": [
+      ["Scratch", 4],
+      ["Dent", 1]
+    ],
+    "Accident History": [
+      "InteriorDamage"
+    ]
+  },
+  {
+    "Name": "X5",
+    "Model": "xDrive40i",
+    "Brand": "BMW",
+    "Year": 2019,
+    "MarketPrice": 47000,
+    "Mileage": 82000,
+    "Previous Owners": 2,
+    "Color Integrity": [],
+    "Accident History": []
+  },
+  {
+    "Name": "E-Class",
+    "Model": "E450",
+    "Brand": "Mercedes-Benz",
+    "Year": 2018,
+    "MarketPrice": 42000,
+    "Mileage": 105000,
+    "Previous Owners": 3,
+    "Color Integrity": [
+      ["Dent", 2],
+      ["Chips", 5],
+      ["Scratch", 3]
+    ],
+    "Accident History": [
+      "Mechanical",
+      "InteriorDamage"
+    ]
+  },
+  {
+    "Name": "A6",
+    "Model": "Prestige",
+    "Brand": "Audi",
+    "Year": 2017,
+    "MarketPrice": 36000,
+    "Mileage": 135000,
+    "Previous Owners": 2,
+    "Color Integrity": [
+      ["Scratch", 7],
+      ["Dent", 1]
+    ],
+    "Accident History": [
+      "Chassis"
+    ]
+  },
+  {
+    "Name": "Passat",
+    "Model": "R-Line",
+    "Brand": "Volkswagen",
+    "Year": 2016,
+    "MarketPrice": 17000,
+    "Mileage": 165000,
+    "Previous Owners": 4,
+    "Color Integrity": [
+      ["Chips", 8],
+      ["Dent", 1],
+      ["Scratch", 5]
+    ],
+    "Accident History": [
+      "Dent",
+      "Scratch"
+    ]
+  },
+  {
+    "Name": "Altima",
+    "Model": "SV",
+    "Brand": "Nissan",
+    "Year": 2015,
+    "MarketPrice": 12000,
+    "Mileage": 195000,
+    "Previous Owners": 1,
+    "Color Integrity": [
+      ["Dent", 4],
+      ["Chips", 6]
+    ],
+    "Accident History": []
+  },
+  {
+    "Name": "Sonata",
+    "Model": "Limited",
+    "Brand": "Hyundai",
+    "Year": 2014,
+    "MarketPrice": 10500,
+    "Mileage": 215000,
+    "Previous Owners": 3,
+    "Color Integrity": [
+      ["Scratch", 12]
+    ],
+    "Accident History": [
+      "Mechanical"
+    ]
+  },
+  {
+    "Name": "Soul",
+    "Model": "Plus",
+    "Brand": "Kia",
+    "Year": 2013,
+    "MarketPrice": 9500,
+    "Mileage": 245000,
+    "Previous Owners": 4,
+    "Color Integrity": [
+      ["Chips", 15],
+      ["Scratch", 10],
+      ["Dent", 5]
+    ],
+    "Accident History": [
+      "Chassis",
+      "Mechanical"
+    ]
+  },
+  {
+    "Name": "Forester",
+    "Model": "Limited",
+    "Brand": "Subaru",
+    "Year": 2012,
+    "MarketPrice": 8500,
+    "Mileage": 275000,
+    "Previous Owners": 2,
+    "Color Integrity": [],
+    "Accident History": [
+      "Chassis",
+      "InteriorDamage"
+    ]
+  },
+  {
+    "Name": "CX-5",
+    "Model": "Select",
+    "Brand": "Mazda",
+    "Year": 2024,
+    "MarketPrice": 29000,
+    "Mileage": 9000,
+    "Previous Owners": 0,
+    "Color Integrity": [
+      ["Dent", 1]
+    ],
+    "Accident History": []
+  },
+  {
+    "Name": "RAV4",
+    "Model": "Limited",
+    "Brand": "Toyota",
+    "Year": 2023,
+    "MarketPrice": 31000,
+    "Mileage": 19000,
+    "Previous Owners": 1,
+    "Color Integrity": [],
+    "Accident History": []
+  },
+  {
+    "Name": "CR-V",
+    "Model": "Touring",
+    "Brand": "Honda",
+    "Year": 2022,
+    "MarketPrice": 30000,
+    "Mileage": 33000,
+    "Previous Owners": 1,
+    "Color Integrity": [
+      ["Chips", 3],
+      ["Scratch", 1]
+    ],
+    "Accident History": []
+  },
+  {
+    "Name": "Explorer",
+    "Model": "XLT",
+    "Brand": "Ford",
+    "Year": 2021,
+    "MarketPrice": 37000,
+    "Mileage": 52000,
+    "Previous Owners": 2,
+    "Color Integrity": [
+      ["Scratch", 2],
+      ["Dent", 1]
+    ],
+    "Accident History": [
+      "Dent"
+    ]
+  },
+  {
+    "Name": "Tahoe",
+    "Model": "Premier",
+    "Brand": "Chevrolet",
+    "Year": 2020,
+    "MarketPrice": 46000,
+    "Mileage": 67000,
+    "Previous Owners": 1,
+    "Color Integrity": [
+      ["Dent", 1]
+    ],
+    "Accident History": [
+      "Mechanical",
+      "InteriorDamage"
+    ]
+  },
+  {
+    "Name": "5 Series",
+    "Model": "530i",
+    "Brand": "BMW",
+    "Year": 2019,
+    "MarketPrice": 41000,
+    "Mileage": 87000,
+    "Previous Owners": 2,
+    "Color Integrity": [],
+    "Accident History": []
+  },
+  {
+    "Name": "GLC-Class",
+    "Model": "GLC 300",
+    "Brand": "Mercedes-Benz",
+    "Year": 2018,
+    "MarketPrice": 39000,
+    "Mileage": 112000,
+    "Previous Owners": 3,
+    "Color Integrity": [
+      ["Scratch", 6],
+      ["Chips", 3],
+      ["Dent", 2]
+    ],
+    "Accident History": [
+      "Chassis"
+    ]
+  },
+  {
+    "Name": "Q5",
+    "Model": "Premium",
+    "Brand": "Audi",
+    "Year": 2017,
+    "MarketPrice": 34000,
+    "Mileage": 142000,
+    "Previous Owners": 2,
+    "Color Integrity": [
+      ["Dent", 3],
+      ["Scratch", 7]
+    ],
+    "Accident History": [
+      "Dent",
+      "Scratch",
+      "Mechanical"
+    ]
+  },
+  {
+    "Name": "Jetta",
+    "Model": "SEL",
+    "Brand": "Volkswagen",
+    "Year": 2016,
+    "MarketPrice": 16000,
+    "Mileage": 172000,
+    "Previous Owners": 4,
+    "Color Integrity": [
+      ["Chips", 10],
+      ["Scratch", 5],
+      ["Bend", 1]
+    ],
+    "Accident History": [
+      "Chassis"
+    ]
+  },
+  {
+    "Name": "Rogue",
+    "Model": "SL",
+    "Brand": "Nissan",
+    "Year": 2015,
+    "MarketPrice": 15000,
+    "Mileage": 198000,
+    "Previous Owners": 1,
+    "Color Integrity": [
+      ["Bend", 1],
+      ["Dent", 4]
+    ],
+    "Accident History": [
+      "Mechanical"
+    ]
+  },
+  {
+    "Name": "Tucson",
+    "Model": "Limited",
+    "Brand": "Hyundai",
+    "Year": 2014,
+    "MarketPrice": 12000,
+    "Mileage": 218000,
+    "Previous Owners": 3,
+    "Color Integrity": [
+      ["Dent", 5],
+      ["Chips", 7]
+    ],
+    "Accident History": [
+      "Chassis",
+      "InteriorDamage"
+    ]
+  },
+  {
+    "Name": "Sportage",
+    "Model": "SX",
+    "Brand": "Kia",
+    "Year": 2013,
+    "MarketPrice": 11000,
+    "Mileage": 248000,
+    "Previous Owners": 4,
+    "Color Integrity": [
+      ["Scratch", 15],
+      ["Dent", 10],
+      ["Chips", 12]
+    ],
+    "Accident History": [
+      "Chassis",
+      "Mechanical",
+      "InteriorDamage"
+    ]
+  },
+  {
+    "Name": "Impreza",
+    "Model": "Premium",
+    "Brand": "Subaru",
+    "Year": 2012,
+    "MarketPrice": 8000,
+    "Mileage": 278000,
+    "Previous Owners": 2,
+    "Color Integrity": [],
+    "Accident History": [
+      "Chassis"
+    ]
+  },
+  {
+    "Name": "Mazda6",
+    "Model": "Grand Touring",
+    "Brand": "Mazda",
+    "Year": 2024,
+    "MarketPrice": 28000,
+    "Mileage": 7000,
+    "Previous Owners": 0,
+    "Color Integrity": [],
+    "Accident History": []
+  },
+  {
+    "Name": "Prius",
+    "Model": "XLE",
+    "Brand": "Toyota",
+    "Year": 2023,
+    "MarketPrice": 30000,
+    "Mileage": 13000,
+    "Previous Owners": 1,
+    "Color Integrity": [],
+    "Accident History": []
+  },
+  {
+    "Name": "Fit",
+    "Model": "Sport",
+    "Brand": "Honda",
+    "Year": 2022,
+    "MarketPrice": 22000,
+    "Mileage": 26000,
+    "Previous Owners": 1,
+    "Color Integrity": [
+      ["Scratch", 2],
+      ["Chips", 1]
+    ],
+    "Accident History": []
+  },
+  {
+    "Name": "Focus",
+    "Model": "ST",
+    "Brand": "Ford",
+    "Year": 2021,
+    "MarketPrice": 20000,
+    "Mileage": 46000,
+    "Previous Owners": 1,
+    "Color Integrity": [
+      ["Chips", 3],
+      ["Dent", 1]
+    ],
+    "Accident History": [
+      "Dent"
+    ]
+  },
+  {
+    "Name": "Malibu",
+    "Model": "RS",
+    "Brand": "Chevrolet",
+    "Year": 2020,
+    "MarketPrice": 18000,
+    "Mileage": 76000,
+    "Previous Owners": 2,
+    "Color Integrity": [
+      ["Dent", 2],
+      ["Scratch", 3]
+    ],
+    "Accident History": [
+      "InteriorDamage"
+    ]
+  },
+  {
+    "Name": "1 Series",
+    "Model": "135i",
+    "Brand": "BMW",
+    "Year": 2019,
+    "MarketPrice": 26000,
+    "Mileage": 96000,
+    "Previous Owners": 2,
+    "Color Integrity": [],
+    "Accident History": []
+  },
+  {
+    "Name": "A-Class",
+    "Model": "A250",
+    "Brand": "Mercedes-Benz",
+    "Year": 2018,
+    "MarketPrice": 24000,
+    "Mileage": 117000,
+    "Previous Owners": 3,
+    "Color Integrity": [
+      ["Chips", 7],
+      ["Scratch", 4],
+      ["Dent", 1]
+    ],
+    "Accident History": [
+      "Mechanical"
+    ]
+  },
+  {
+    "Name": "A3",
+    "Model": "Premium",
+    "Brand": "Audi",
+    "Year": 2017,
+    "MarketPrice": 21000,
+    "Mileage": 147000,
+    "Previous Owners": 2,
+    "Color Integrity": [
+      ["Scratch", 8],
+      ["Chips", 5]
+    ],
+    "Accident History": [
+      "Chassis"
+    ]
+  },
+  {
+    "Name": "Tiguan",
+    "Model": "SE",
+    "Brand": "Volkswagen",
+    "Year": 2016,
+    "MarketPrice": 18000,
+    "Mileage": 177000,
+    "Previous Owners": 4,
+    "Color Integrity": [
+      ["Dent", 4],
+      ["Chips", 6],
+      ["Scratch", 3]
+    ],
+    "Accident History": [
+      "Dent",
+      "Scratch",
+      "Mechanical"
+    ]
+  },
+  {
+    "Name": "Versa",
+    "Model": "SV",
+    "Brand": "Nissan",
+    "Year": 2015,
+    "MarketPrice": 11000,
+    "Mileage": 207000,
+    "Previous Owners": 1,
+    "Color Integrity": [
+      ["Chips", 12],
+      ["Dent", 3]
+    ],
+    "Accident History": []
+  },
+  {
+    "Name": "Kona",
+    "Model": "SEL",
+    "Brand": "Hyundai",
+    "Year": 2024,
+    "MarketPrice": 25000,
+    "Mileage": 8000,
+    "Previous Owners": 0,
+    "Color Integrity": [],
+    "Accident History": []
+  },
+  {
+    "Name": "Sorento",
+    "Model": "SX",
+    "Brand": "Kia",
+    "Year": 2023,
+    "MarketPrice": 32000,
+    "Mileage": 17000,
+    "Previous Owners": 1,
+    "Color Integrity": [
+      ["Dent", 1],
+      ["Scratch", 1]
+    ],
+    "Accident History": []
+  },
+  {
+    "Name": "Outback",
+    "Model": "Touring",
+    "Brand": "Subaru",
+    "Year": 2022,
+    "MarketPrice": 34000,
+    "Mileage": 29000,
+    "Previous Owners": 1,
+    "Color Integrity": [
+      ["Scratch", 3],
+      ["Chips", 2]
+    ],
+    "Accident History": []
+  },
+  {
+    "Name": "CX-9",
+    "Model": "Grand Touring",
+    "Brand": "Mazda",
+    "Year": 2021,
+    "MarketPrice": 33000,
+    "Mileage": 49000,
+    "Previous Owners": 2,
+    "Color Integrity": [
+      ["Chips", 4],
+      ["Dent", 1]
+    ],
+    "Accident History": [
+      "Dent"
+    ]
+  },
+  {
+    "Name": "4Runner",
+    "Model": "TRD Pro",
+    "Brand": "Toyota",
+    "Year": 2020,
+    "MarketPrice": 36000,
+    "Mileage": 62000,
+    "Previous Owners": 1,
+    "Color Integrity": [
+      ["Dent", 1],
+      ["Scratch", 2]
+    ],
+    "Accident History": [
+      "Mechanical"
+    ]
+  },
+  {
+    "Name": "Pilot",
+    "Model": "Touring",
+    "Brand": "Honda",
+    "Year": 2019,
+    "MarketPrice": 29000,
+    "Mileage": 89000,
+    "Previous Owners": 2,
+    "Color Integrity": [],
+    "Accident History": []
+  },
+  {
+    "Name": "Edge",
+    "Model": "ST",
+    "Brand": "Ford",
+    "Year": 2018,
+    "MarketPrice": 23000,
+    "Mileage": 107000,
+    "Previous Owners": 3,
+    "Color Integrity": [
+      ["Scratch", 5],
+      ["Dent", 2],
+      ["Chips", 3]
+    ],
+    "Accident History": [
+      "InteriorDamage"
+    ]
+  },
+  {
+    "Name": "Traverse",
+    "Model": "Premier",
+    "Brand": "Chevrolet",
+    "Year": 2017,
+    "MarketPrice": 20000,
+    "Mileage": 137000,
+    "Previous Owners": 2,
+    "Color Integrity": [
+      ["Chips", 8],
+      ["Dent", 1]
+    ],
+    "Accident History": [
+      "Chassis"
+    ]
+  },
+  {
+    "Name": "X3",
+    "Model": "xDrive30i",
+    "Brand": "BMW",
+    "Year": 2016,
+    "MarketPrice": 27000,
+    "Mileage": 157000,
+    "Previous Owners": 4,
+    "Color Integrity": [
+      ["Dent", 3],
+      ["Scratch", 6],
+      ["Chips", 4]
+    ],
+    "Accident History": [
+      "Mechanical",
+      "Dent"
+    ]
+  },
+  {
+    "Name": "GLA-Class",
+    "Model": "GLA 250",
+    "Brand": "Mercedes-Benz",
+    "Year": 2015,
+    "MarketPrice": 21000,
+    "Mileage": 187000,
+    "Previous Owners": 1,
+    "Color Integrity": [
+      ["Chips", 10],
+      ["Scratch", 5]
+    ],
+    "Accident History": [
+      "Chassis",
+      "Mechanical"
+    ]
+  },
+  {
+    "Name": "Q3",
+    "Model": "Premium Plus",
+    "Brand": "Audi",
+    "Year": 2014,
+    "MarketPrice": 18000,
+    "Mileage": 212000,
+    "Previous Owners": 3,
+    "Color Integrity": [
+      ["Bend", 1],
+      ["Dent", 2],
+      ["Chips", 5]
+    ],
+    "Accident History": [
+      "Chassis",
+      "InteriorDamage"
+    ]
+  }
+]
