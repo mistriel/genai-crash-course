@@ -45,8 +45,19 @@ In the `resources` folder, you will find a JSON file named `car_agency_inventory
     
 ## Assignments:
 
+**Style Guide:** Ensure that the code adheres to PEP 8 style guidelines for Python.
+
 1.  **Car Class Modeling:** Design and implement a `Car` class to encapsulate vehicle attributes.
-2.  **ParkingLot Class Modeling:** Design and implement a `ParkingLot` class or structure to manage vehicles assigned to each lot.
-3.  **Evaluation Function:** Implement a function to calculate a car's `EvaluatedPrice` based on the specified cost reduction rules.
-4.  **Lot Population:** Populate the `ParkingLot` structure by assigning a given list of cars to the appropriate front, middle, or back area based on their evaluated criteria.
-5.  **Style Guide:** Ensure that the code adheres to PEP 8 style guidelines for Python.
+2.  **JSON Data Parsing:** Write a function to read the `car_agency_inventory.json` file and create instances of the `Car` class for each vehicle in the inventory.
+3.  **ParkingLot Class Modeling:** Design and implement a `ParkingLot` class or structure to manage vehicles assigned to each lot. </br>
+   a.  **Evaluation Function:** Implement a function to calculate a car's `EvaluatedPrice` based on the specified cost reduction rules. </br>
+   b.  **Constructor:** `ParkingLot` class constructor should use the above function to evaluate the price of each car and assign it to the appropriate lot. </br>
+4. **Display Function:** Implement a function to display the cars in `ParkingLot`, include the following attributes: `brand`, `name`, `model`, `year` `EvaluatedPrice`  </br>
+   a.  Each row contains 3 cars </br>
+   b.  Display the lot name and the number of cars in it </br>
+   c.  Try to maintain equal spacing between the rows and columns </br>
+
+
+### Bonus:
+1.  **Data Validation:** Implement validation checks to ensure that the data read from the JSON file is in the expected format and handle any discrepancies gracefully.
+2.  **Pydantic Validation:** Use Pydantic to validate the attributes of the `Car` class. Ensure that the `Year` is a valid integer, `MarketPrice` and `EvaluatedPrice` are positive integers, and `Mileage` is a non-negative integer. Validate that `Color Integrity` contains valid issue types and quantities. Validate that `Accident History` contains valid damage types.
