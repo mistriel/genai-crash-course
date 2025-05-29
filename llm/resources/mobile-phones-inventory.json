@@ -1,0 +1,1253 @@
+{
+  "mobile_phones": [
+    {
+      "name": "Nova X Pro",
+      "brand": "TechCo",
+      "model": "TXP-2025",
+      "price_usd": 1299.99,
+      "size": {
+        "display_inches": 6.8,
+        "height_mm": 163.5,
+        "width_mm": 75.8,
+        "thickness_mm": 8.1,
+        "weight_grams": 215
+      },
+      "os": {
+        "name": "Android",
+        "version": "16"
+      },
+      "main_camera_features": [
+        {"lens": "50MP Wide", "aperture": "f/1.6", "features": ["OIS", "PDAF"]},
+        {"lens": "12MP Ultra-Wide", "aperture": "f/2.2", "features": ["120° FoV"]},
+        {"lens": "10MP Telephoto", "aperture": "f/2.4", "features": ["3x Optical Zoom", "OIS"]},
+        {"lens": "Depth Sensor", "aperture": "N/A", "features": []}
+      ],
+      "selfie_camera_features": [
+        {"lens": "32MP", "aperture": "f/2.0", "features": ["Autofocus", "HDR"]}
+      ],
+      "memory_gb": 12,
+      "storage_gb": 512,
+      "ip_rating": "IP68"
+    },
+    {
+      "name": "Quantum Z Fold",
+      "brand": "FlexTech",
+      "model": "QZF-F3",
+      "price_usd": 1899.00,
+      "size": {
+        "display_inches": 7.6,
+        "height_mm": 158.2,
+        "width_mm": 128.1,
+        "thickness_mm": 6.4,
+        "weight_grams": 275
+      },
+      "os": {
+        "name": "Android",
+        "version": "16"
+      },
+      "main_camera_features": [
+        {"lens": "64MP Wide", "aperture": "f/1.8", "features": ["OIS", "Dual Pixel PDAF"]},
+        {"lens": "16MP Ultra-Wide", "aperture": "f/2.2", "features": ["123° FoV"]},
+        {"lens": "8MP Telephoto", "aperture": "f/2.4", "features": ["2x Optical Zoom"]}
+      ],
+      "selfie_camera_features": [
+        {"lens": "10MP (Cover)", "aperture": "f/2.2", "features": []},
+        {"lens": "4MP (Under-display)", "aperture": "f/1.8", "features": []}
+      ],
+      "memory_gb": 16,
+      "storage_gb": 1024,
+      "ip_rating": "IPX8"
+    },
+    {
+      "name": "Aura Lite",
+      "brand": "GloTech",
+      "model": "ALT-2025",
+      "price_usd": 499.99,
+      "size": {
+        "display_inches": 6.5,
+        "height_mm": 160.1,
+        "width_mm": 73.4,
+        "thickness_mm": 7.9,
+        "weight_grams": 178
+      },
+      "os": {
+        "name": "Android",
+        "version": "15"
+      },
+      "main_camera_features": [
+        {"lens": "48MP Wide", "aperture": "f/1.8", "features": ["PDAF"]},
+        {"lens": "8MP Ultra-Wide", "aperture": "f/2.2", "features": []},
+        {"lens": "2MP Macro", "aperture": "f/2.4", "features": []}
+      ],
+      "selfie_camera_features": [
+        {"lens": "16MP", "aperture": "f/2.0", "features": ["HDR"]}
+      ],
+      "memory_gb": 8,
+      "storage_gb": 128,
+      "ip_rating": "IP53"
+    },
+    {
+      "name": "Pinnacle Pro",
+      "brand": "Zenith Mobile",
+      "model": "ZPM-5G",
+      "price_usd": 999.00,
+      "size": {
+        "display_inches": 6.7,
+        "height_mm": 162.0,
+        "width_mm": 74.5,
+        "thickness_mm": 8.5,
+        "weight_grams": 195
+      },
+      "os": {
+        "name": "Android",
+        "version": "16"
+      },
+      "main_camera_features": [
+        {"lens": "108MP Wide", "aperture": "f/1.7", "features": ["OIS", "Laser AF"]},
+        {"lens": "13MP Ultra-Wide", "aperture": "f/2.4", "features": ["125° FoV"]},
+        {"lens": "5MP Macro", "aperture": "f/2.4", "features": ["Autofocus"]}
+      ],
+      "selfie_camera_features": [
+        {"lens": "20MP", "aperture": "f/2.2", "features": ["EIS"]}
+      ],
+      "memory_gb": 12,
+      "storage_gb": 256,
+      "ip_rating": "IP67"
+    },
+    {
+      "name": "Echo Prime",
+      "brand": "Sonic Devices",
+      "model": "SD-EP1",
+      "price_usd": 749.99,
+      "size": {
+        "display_inches": 6.6,
+        "height_mm": 165.0,
+        "width_mm": 76.0,
+        "thickness_mm": 8.8,
+        "weight_grams": 205
+      },
+      "os": {
+        "name": "Android",
+        "version": "15"
+      },
+      "main_camera_features": [
+        {"lens": "64MP Wide", "aperture": "f/1.9", "features": ["PDAF"]},
+        {"lens": "12MP Ultra-Wide", "aperture": "f/2.2", "features": []}
+      ],
+      "selfie_camera_features": [
+        {"lens": "16MP", "aperture": "f/2.0", "features": []}
+      ],
+      "memory_gb": 8,
+      "storage_gb": 256,
+      "ip_rating": "IP54"
+    },
+    {
+      "name": "Aether Elite",
+      "brand": "AeroTech",
+      "model": "AE-2025",
+      "price_usd": 1499.00,
+      "size": {
+        "display_inches": 6.9,
+        "height_mm": 167.2,
+        "width_mm": 77.1,
+        "thickness_mm": 8.3,
+        "weight_grams": 220
+      },
+      "os": {
+        "name": "Android",
+        "version": "16"
+      },
+      "main_camera_features": [
+        {"lens": "200MP Wide", "aperture": "f/1.7", "features": ["OIS", "Multi-directional PDAF"]},
+        {"lens": "12MP Ultra-Wide", "aperture": "f/2.2", "features": ["Autofocus", "Macro mode"]},
+        {"lens": "10MP Periscope Telephoto", "aperture": "f/4.9", "features": ["10x Optical Zoom", "OIS"]},
+        {"lens": "10MP Telephoto", "aperture": "f/2.4", "features": ["3x Optical Zoom", "OIS"]}
+      ],
+      "selfie_camera_features": [
+        {"lens": "40MP", "aperture": "f/2.2", "features": ["Autofocus", "4K video"]}
+      ],
+      "memory_gb": 16,
+      "storage_gb": 1024,
+      "ip_rating": "IP68"
+    },
+    {
+      "name": "Chronos Mini",
+      "brand": "TimeWare",
+      "model": "TM-C2",
+      "price_usd": 349.00,
+      "size": {
+        "display_inches": 5.9,
+        "height_mm": 147.0,
+        "width_mm": 68.0,
+        "thickness_mm": 8.2,
+        "weight_grams": 160
+      },
+      "os": {
+        "name": "Android",
+        "version": "14"
+      },
+      "main_camera_features": [
+        {"lens": "50MP Wide", "aperture": "f/1.8", "features": ["PDAF"]},
+        {"lens": "8MP Ultra-Wide", "aperture": "f/2.2", "features": []}
+      ],
+      "selfie_camera_features": [
+        {"lens": "12MP", "aperture": "f/2.4", "features": []}
+      ],
+      "memory_gb": 6,
+      "storage_gb": 64,
+      "ip_rating": "IP52"
+    },
+    {
+      "name": "Spectra Edge",
+      "brand": "Visionary Tech",
+      "model": "VTE-2025",
+      "price_usd": 899.50,
+      "size": {
+        "display_inches": 6.7,
+        "height_mm": 161.8,
+        "width_mm": 74.2,
+        "thickness_mm": 8.0,
+        "weight_grams": 185
+      },
+      "os": {
+        "name": "Android",
+        "version": "16"
+      },
+      "main_camera_features": [
+        {"lens": "50MP Wide", "aperture": "f/1.7", "features": ["OIS", "PDAF"]},
+        {"lens": "13MP Ultra-Wide", "aperture": "f/2.2", "features": ["Autofocus"]},
+        {"lens": "5MP Macro", "aperture": "f/2.4", "features": []}
+      ],
+      "selfie_camera_features": [
+        {"lens": "32MP", "aperture": "f/2.0", "features": ["HDR"]}
+      ],
+      "memory_gb": 12,
+      "storage_gb": 256,
+      "ip_rating": "IP67"
+    },
+    {
+      "name": "Terra Explorer",
+      "brand": "Rugged Phones Inc.",
+      "model": "TE-R7",
+      "price_usd": 699.00,
+      "size": {
+        "display_inches": 6.1,
+        "height_mm": 170.0,
+        "width_mm": 82.0,
+        "thickness_mm": 14.5,
+        "weight_grams": 320
+      },
+      "os": {
+        "name": "Android",
+        "version": "14"
+      },
+      "main_camera_features": [
+        {"lens": "48MP Wide", "aperture": "f/1.8", "features": ["PDAF"]},
+        {"lens": "2MP Depth", "aperture": "f/2.4", "features": []}
+      ],
+      "selfie_camera_features": [
+        {"lens": "16MP", "aperture": "f/2.0", "features": []}
+      ],
+      "memory_gb": 8,
+      "storage_gb": 128,
+      "ip_rating": "IP69K"
+    },
+    {
+      "name": "Luminary Glow",
+      "brand": "BrightStar",
+      "model": "BS-LG3",
+      "price_usd": 599.00,
+      "size": {
+        "display_inches": 6.4,
+        "height_mm": 158.0,
+        "width_mm": 73.0,
+        "thickness_mm": 7.8,
+        "weight_grams": 170
+      },
+      "os": {
+        "name": "Android",
+        "version": "15"
+      },
+      "main_camera_features": [
+        {"lens": "50MP Wide", "aperture": "f/1.8", "features": ["OIS"]},
+        {"lens": "8MP Ultra-Wide", "aperture": "f/2.2", "features": []}
+      ],
+      "selfie_camera_features": [
+        {"lens": "20MP", "aperture": "f/2.0", "features": ["Beauty Mode"]}
+      ],
+      "memory_gb": 8,
+      "storage_gb": 256,
+      "ip_rating": "IP53"
+    },
+    {
+      "name": "Vortex Pro",
+      "brand": "Infinity Mobiles",
+      "model": "IM-VP4",
+      "price_usd": 1199.00,
+      "size": {
+        "display_inches": 6.7,
+        "height_mm": 162.5,
+        "width_mm": 75.0,
+        "thickness_mm": 8.6,
+        "weight_grams": 200
+      },
+      "os": {
+        "name": "Android",
+        "version": "16"
+      },
+      "main_camera_features": [
+        {"lens": "50MP Wide", "aperture": "f/1.5", "features": ["Variable Aperture", "OIS", "Dual Pixel PDAF"]},
+        {"lens": "12MP Ultra-Wide", "aperture": "f/2.2", "features": ["Autofocus"]},
+        {"lens": "10MP Telephoto", "aperture": "f/2.4", "features": ["3x Optical Zoom", "OIS"]}
+      ],
+      "selfie_camera_features": [
+        {"lens": "32MP", "aperture": "f/2.0", "features": ["4K video"]}
+      ],
+      "memory_gb": 12,
+      "storage_gb": 512,
+      "ip_rating": "IP68"
+    },
+    {
+      "name": "Nexus Connect",
+      "brand": "Link Innovations",
+      "model": "LI-NC1",
+      "price_usd": 299.99,
+      "size": {
+        "display_inches": 6.2,
+        "height_mm": 156.0,
+        "width_mm": 72.0,
+        "thickness_mm": 8.5,
+        "weight_grams": 175
+      },
+      "os": {
+        "name": "Android",
+        "version": "13"
+      },
+      "main_camera_features": [
+        {"lens": "13MP Wide", "aperture": "f/2.2", "features": ["PDAF"]},
+        {"lens": "2MP Depth", "aperture": "f/2.4", "features": []}
+      ],
+      "selfie_camera_features": [
+        {"lens": "8MP", "aperture": "f/2.0", "features": []}
+      ],
+      "memory_gb": 4,
+      "storage_gb": 64,
+      "ip_rating": "IPX2"
+    },
+    {
+      "name": "Fusion Max",
+      "brand": "Synergy Devices",
+      "model": "SD-FM8",
+      "price_usd": 849.00,
+      "size": {
+        "display_inches": 6.8,
+        "height_mm": 164.0,
+        "width_mm": 76.5,
+        "thickness_mm": 8.4,
+        "weight_grams": 198
+      },
+      "os": {
+        "name": "Android",
+        "version": "16"
+      },
+      "main_camera_features": [
+        {"lens": "100MP Wide", "aperture": "f/1.8", "features": ["OIS", "PDAF"]},
+        {"lens": "13MP Ultra-Wide", "aperture": "f/2.2", "features": []},
+        {"lens": "5MP Macro", "aperture": "f/2.4", "features": []}
+      ],
+      "selfie_camera_features": [
+        {"lens": "24MP", "aperture": "f/2.0", "features": ["HDR"]}
+      ],
+      "memory_gb": 10,
+      "storage_gb": 256,
+      "ip_rating": "IP67"
+    },
+    {
+      "name": "Zenith Z",
+      "brand": "Aura Innovations",
+      "model": "AI-ZZ",
+      "price_usd": 1599.00,
+      "size": {
+        "display_inches": 6.9,
+        "height_mm": 168.0,
+        "width_mm": 78.0,
+        "thickness_mm": 8.7,
+        "weight_grams": 225
+      },
+      "os": {
+        "name": "Android",
+        "version": "16"
+      },
+      "main_camera_features": [
+        {"lens": "200MP Wide", "aperture": "f/1.6", "features": ["OIS", "Dual Pixel PDAF"]},
+        {"lens": "50MP Ultra-Wide", "aperture": "f/2.2", "features": ["Autofocus"]},
+        {"lens": "50MP Telephoto", "aperture": "f/3.0", "features": ["5x Optical Zoom", "OIS"]},
+        {"lens": "ToF Sensor", "aperture": "N/A", "features": []}
+      ],
+      "selfie_camera_features": [
+        {"lens": "50MP", "aperture": "f/2.2", "features": ["Autofocus", "4K video"]}
+      ],
+      "memory_gb": 16,
+      "storage_gb": 1024,
+      "ip_rating": "IP68"
+    },
+    {
+      "name": "Orbit Go",
+      "brand": "Space Mobile",
+      "model": "SM-OG",
+      "price_usd": 199.00,
+      "size": {
+        "display_inches": 6.0,
+        "height_mm": 154.0,
+        "width_mm": 70.0,
+        "thickness_mm": 9.0,
+        "weight_grams": 180
+      },
+      "os": {
+        "name": "Android",
+        "version": "13 (Go Edition)"
+      },
+      "main_camera_features": [
+        {"lens": "8MP Wide", "aperture": "f/2.0", "features": ["Autofocus"]}
+      ],
+      "selfie_camera_features": [
+        {"lens": "5MP", "aperture": "f/2.2", "features": []}
+      ],
+      "memory_gb": 3,
+      "storage_gb": 32,
+      "ip_rating": "IPX0"
+    },
+    {
+      "name": "Chronicle Pro",
+      "brand": "Story Devices",
+      "model": "SD-CP2",
+      "price_usd": 949.00,
+      "size": {
+        "display_inches": 6.6,
+        "height_mm": 161.0,
+        "width_mm": 73.0,
+        "thickness_mm": 8.3,
+        "weight_grams": 190
+      },
+      "os": {
+        "name": "Android",
+        "version": "16"
+      },
+      "main_camera_features": [
+        {"lens": "50MP Wide", "aperture": "f/1.8", "features": ["OIS", "PDAF"]},
+        {"lens": "12MP Ultra-Wide", "aperture": "f/2.2", "features": []},
+        {"lens": "5MP Telephoto", "aperture": "f/2.4", "features": ["2x Optical Zoom"]}
+      ],
+      "selfie_camera_features": [
+        {"lens": "32MP", "aperture": "f/2.0", "features": ["EIS"]}
+      ],
+      "memory_gb": 12,
+      "storage_gb": 256,
+      "ip_rating": "IP67"
+    },
+    {
+      "name": "Horizon View",
+      "brand": "Panorama Tech",
+      "model": "PT-HV1",
+      "price_usd": 699.00,
+      "size": {
+        "display_inches": 6.5,
+        "height_mm": 160.5,
+        "width_mm": 74.0,
+        "thickness_mm": 8.2,
+        "weight_grams": 180
+      },
+      "os": {
+        "name": "Android",
+        "version": "15"
+      },
+      "main_camera_features": [
+        {"lens": "64MP Wide", "aperture": "f/1.8", "features": ["PDAF"]},
+        {"lens": "8MP Ultra-Wide", "aperture": "f/2.2", "features": []},
+        {"lens": "2MP Macro", "aperture": "f/2.4", "features": []}
+      ],
+      "selfie_camera_features": [
+        {"lens": "16MP", "aperture": "f/2.0", "features": ["Panorama Selfie"]}
+      ],
+      "memory_gb": 8,
+      "storage_gb": 128,
+      "ip_rating": "IP53"
+    },
+    {
+      "name": "Pulsar X",
+      "brand": "Vibe Electronics",
+      "model": "VE-PX",
+      "price_usd": 1099.00,
+      "size": {
+        "display_inches": 6.7,
+        "height_mm": 163.0,
+        "width_mm": 75.5,
+        "thickness_mm": 8.0,
+        "weight_grams": 210
+      },
+      "os": {
+        "name": "Android",
+        "version": "16"
+      },
+      "main_camera_features": [
+        {"lens": "50MP Wide", "aperture": "f/1.6", "features": ["OIS", "Dual Pixel PDAF"]},
+        {"lens": "48MP Ultra-Wide", "aperture": "f/2.2", "features": ["Autofocus", "Macro mode"]},
+        {"lens": "48MP Telephoto", "aperture": "f/3.5", "features": ["5x Optical Zoom", "OIS"]}
+      ],
+      "selfie_camera_features": [
+        {"lens": "32MP", "aperture": "f/2.0", "features": ["Autofocus"]}
+      ],
+      "memory_gb": 16,
+      "storage_gb": 512,
+      "ip_rating": "IP68"
+    },
+    {
+      "name": "ZenFlow",
+      "brand": "Harmony Devices",
+      "model": "HD-ZF",
+      "price_usd": 399.00,
+      "size": {
+        "display_inches": 6.3,
+        "height_mm": 157.0,
+        "width_mm": 72.5,
+        "thickness_mm": 8.1,
+        "weight_grams": 170
+      },
+      "os": {
+        "name": "Android",
+        "version": "14"
+      },
+      "main_camera_features": [
+        {"lens": "48MP Wide", "aperture": "f/1.9", "features": ["PDAF"]},
+        {"lens": "2MP Depth", "aperture": "f/2.4", "features": []}
+      ],
+      "selfie_camera_features": [
+        {"lens": "13MP", "aperture": "f/2.0", "features": []}
+      ],
+      "memory_gb": 6,
+      "storage_gb": 128,
+      "ip_rating": "IP52"
+    },
+    {
+      "name": "Catalyst Pro",
+      "brand": "Momentum Mobiles",
+      "model": "MM-CP3",
+      "price_usd": 1399.00,
+      "size": {
+        "display_inches": 7.0,
+        "height_mm": 166.0,
+        "width_mm": 77.0,
+        "thickness_mm": 8.9,
+        "weight_grams": 230
+      },
+      "os": {
+        "name": "Android",
+        "version": "16"
+      },
+      "main_camera_features": [
+        {"lens": "108MP Wide", "aperture": "f/1.6", "features": ["OIS", "Laser AF"]},
+        {"lens": "16MP Ultra-Wide", "aperture": "f/2.2", "features": ["Autofocus"]},
+        {"lens": "10MP Telephoto", "aperture": "f/2.4", "features": ["3x Optical Zoom", "OIS"]},
+        {"lens": "10MP Periscope Telephoto", "aperture": "f/4.9", "features": ["10x Optical Zoom", "OIS"]}
+      ],
+      "selfie_camera_features": [
+        {"lens": "40MP", "aperture": "f/2.2", "features": ["Autofocus"]}
+      ],
+      "memory_gb": 16,
+      "storage_gb": 1024,
+      "ip_rating": "IP68"
+    },
+    {
+      "name": "Sentinel Secure",
+      "brand": "Guardian Tech",
+      "model": "GT-SS1",
+      "price_usd": 799.00,
+      "size": {
+        "display_inches": 6.4,
+        "height_mm": 160.0,
+        "width_mm": 75.0,
+        "thickness_mm": 9.5,
+        "weight_grams": 220
+      },
+      "os": {
+        "name": "Android",
+        "version": "15"
+      },
+      "main_camera_features": [
+        {"lens": "50MP Wide", "aperture": "f/1.8", "features": ["PDAF"]},
+        {"lens": "12MP Ultra-Wide", "aperture": "f/2.2", "features": []}
+      ],
+      "selfie_camera_features": [
+        {"lens": "20MP", "aperture": "f/2.0", "features": ["Night Mode"]}
+      ],
+      "memory_gb": 8,
+      "storage_gb": 256,
+      "ip_rating": "IP68"
+    },
+    {
+      "name": "Elevate Lite",
+      "brand": "Ascend Mobiles",
+      "model": "AM-EL2",
+      "price_usd": 449.00,
+      "size": {
+        "display_inches": 6.5,
+        "height_mm": 162.0,
+        "width_mm": 75.5,
+        "thickness_mm": 8.0,
+        "weight_grams": 185
+      },
+      "os": {
+        "name": "Android",
+        "version": "15"
+      },
+      "main_camera_features": [
+        {"lens": "48MP Wide", "aperture": "f/1.8", "features": ["PDAF"]},
+        {"lens": "8MP Ultra-Wide", "aperture": "f/2.2", "features": []},
+        {"lens": "2MP Depth", "aperture": "f/2.4", "features": []}
+      ],
+      "selfie_camera_features": [
+        {"lens": "16MP", "aperture": "f/2.0", "features": ["Portrait Mode"]}
+      ],
+      "memory_gb": 6,
+      "storage_gb": 128,
+      "ip_rating": "IP53"
+    },
+    {
+      "name": "Hyperion Ultra",
+      "brand": "Celestial Corp",
+      "model": "CC-HU1",
+      "price_usd": 1999.00,
+      "size": {
+        "display_inches": 7.1,
+        "height_mm": 168.5,
+        "width_mm": 78.5,
+        "thickness_mm": 8.9,
+        "weight_grams": 240
+      },
+      "os": {
+        "name": "Android",
+        "version": "16"
+      },
+      "main_camera_features": [
+        {"lens": "200MP Wide", "aperture": "f/1.4", "features": ["Sensor-shift OIS", "Multi-directional PDAF"]},
+        {"lens": "50MP Ultra-Wide", "aperture": "f/2.0", "features": ["Autofocus", "Macro mode"]},
+        {"lens": "50MP Periscope Telephoto", "aperture": "f/4.0", "features": ["10x Optical Zoom", "OIS"]},
+        {"lens": "50MP Telephoto", "aperture": "f/2.4", "features": ["3x Optical Zoom", "OIS"]},
+        {"lens": "LiDAR Scanner", "aperture": "N/A", "features": []}
+      ],
+      "selfie_camera_features": [
+        {"lens": "60MP", "aperture": "f/2.0", "features": ["Autofocus", "4K video", "EIS"]}
+      ],
+      "memory_gb": 18,
+      "storage_gb": 2048,
+      "ip_rating": "IP68"
+    },
+    {
+      "name": "Voyage Pro",
+      "brand": "Global Comm.",
+      "model": "GC-VP6",
+      "price_usd": 999.00,
+      "size": {
+        "display_inches": 6.7,
+        "height_mm": 163.0,
+        "width_mm": 76.0,
+        "thickness_mm": 8.5,
+        "weight_grams": 205
+      },
+      "os": {
+        "name": "Android",
+        "version": "16"
+      },
+      "main_camera_features": [
+        {"lens": "50MP Wide", "aperture": "f/1.7", "features": ["OIS", "PDAF"]},
+        {"lens": "12MP Ultra-Wide", "aperture": "f/2.2", "features": ["Autofocus"]},
+        {"lens": "10MP Telephoto", "aperture": "f/2.4", "features": ["3x Optical Zoom", "OIS"]}
+      ],
+      "selfie_camera_features": [
+        {"lens": "32MP", "aperture": "f/2.0", "features": ["HDR"]}
+      ],
+      "memory_gb": 12,
+      "storage_gb": 512,
+      "ip_rating": "IP68"
+    },
+    {
+      "name": "Pioneer X",
+      "brand": "Explore Tech",
+      "model": "ET-PX5",
+      "price_usd": 549.00,
+      "size": {
+        "display_inches": 6.6,
+        "height_mm": 164.5,
+        "width_mm": 76.2,
+        "thickness_mm": 8.7,
+        "weight_grams": 190
+      },
+      "os": {
+        "name": "Android",
+        "version": "15"
+      },
+      "main_camera_features": [
+        {"lens": "64MP Wide", "aperture": "f/1.8", "features": ["PDAF"]},
+        {"lens": "8MP Ultra-Wide", "aperture": "f/2.2", "features": []},
+        {"lens": "2MP Macro", "aperture": "f/2.4", "features": []}
+      ],
+      "selfie_camera_features": [
+        {"lens": "16MP", "aperture": "f/2.0", "features": []}
+      ],
+      "memory_gb": 8,
+      "storage_gb": 128,
+      "ip_rating": "IP53"
+    },
+    {
+      "name": "Apex One",
+      "brand": "Summit Devices",
+      "model": "SD-A1",
+      "price_usd": 1149.00,
+      "size": {
+        "display_inches": 6.8,
+        "height_mm": 164.0,
+        "width_mm": 76.0,
+        "thickness_mm": 8.2,
+        "weight_grams": 210
+      },
+      "os": {
+        "name": "Android",
+        "version": "16"
+      },
+      "main_camera_features": [
+        {"lens": "108MP Wide", "aperture": "f/1.7", "features": ["OIS", "PDAF"]},
+        {"lens": "13MP Ultra-Wide", "aperture": "f/2.2", "features": ["Autofocus"]},
+        {"lens": "5MP Telephoto", "aperture": "f/2.4", "features": ["2x Optical Zoom", "OIS"]}
+      ],
+      "selfie_camera_features": [
+        {"lens": "32MP", "aperture": "f/2.0", "features": ["4K video"]}
+      ],
+      "memory_gb": 12,
+      "storage_gb": 512,
+      "ip_rating": "IP67"
+    },
+    {
+      "name": "Nova S",
+      "brand": "TechCo",
+      "model": "TS-2025",
+      "price_usd": 799.99,
+      "size": {
+        "display_inches": 6.2,
+        "height_mm": 151.7,
+        "width_mm": 71.2,
+        "thickness_mm": 7.9,
+        "weight_grams": 170
+      },
+      "os": {
+        "name": "Android",
+        "version": "16"
+      },
+      "main_camera_features": [
+        {"lens": "50MP Wide", "aperture": "f/1.8", "features": ["OIS", "Dual Pixel PDAF"]},
+        {"lens": "12MP Ultra-Wide", "aperture": "f/2.2", "features": []},
+        {"lens": "10MP Telephoto", "aperture": "f/2.4", "features": ["3x Optical Zoom", "OIS"]}
+      ],
+      "selfie_camera_features": [
+        {"lens": "10MP", "aperture": "f/2.2", "features": ["Autofocus"]}
+      ],
+      "memory_gb": 8,
+      "storage_gb": 256,
+      "ip_rating": "IP68"
+    },
+    {
+      "name": "Quantum Z Flip",
+      "brand": "FlexTech",
+      "model": "QZF-F3",
+      "price_usd": 1199.00,
+      "size": {
+        "display_inches": 6.7,
+        "height_mm": 165.1,
+        "width_mm": 71.9,
+        "thickness_mm": 6.9,
+        "weight_grams": 183
+      },
+      "os": {
+        "name": "Android",
+        "version": "16"
+      },
+      "main_camera_features": [
+        {"lens": "12MP Wide", "aperture": "f/1.8", "features": ["OIS", "Dual Pixel PDAF"]},
+        {"lens": "12MP Ultra-Wide", "aperture": "f/2.2", "features": []}
+      ],
+      "selfie_camera_features": [
+        {"lens": "10MP", "aperture": "f/2.4", "features": []}
+      ],
+      "memory_gb": 8,
+      "storage_gb": 256,
+      "ip_rating": "IPX8"
+    },
+    {
+      "name": "Aura Ultra",
+      "brand": "GloTech",
+      "model": "ALT-2025U",
+      "price_usd": 1099.99,
+      "size": {
+        "display_inches": 6.9,
+        "height_mm": 165.0,
+        "width_mm": 76.5,
+        "thickness_mm": 8.3,
+        "weight_grams": 220
+      },
+      "os": {
+        "name": "Android",
+        "version": "16"
+      },
+      "main_camera_features": [
+        {"lens": "108MP Wide", "aperture": "f/1.7", "features": ["OIS", "PDAF"]},
+        {"lens": "12MP Ultra-Wide", "aperture": "f/2.2", "features": ["Autofocus"]},
+        {"lens": "10MP Periscope Telephoto", "aperture": "f/4.9", "features": ["10x Optical Zoom", "OIS"]},
+        {"lens": "10MP Telephoto", "aperture": "f/2.4", "features": ["3x Optical Zoom", "OIS"]}
+      ],
+      "selfie_camera_features": [
+        {"lens": "40MP", "aperture": "f/2.2", "features": ["Autofocus"]}
+      ],
+      "memory_gb": 12,
+      "storage_gb": 512,
+      "ip_rating": "IP68"
+    },
+    {
+      "name": "Pinnacle Mini",
+      "brand": "Zenith Mobile",
+      "model": "ZPM-M2",
+      "price_usd": 749.00,
+      "size": {
+        "display_inches": 6.1,
+        "height_mm": 153.0,
+        "width_mm": 70.0,
+        "thickness_mm": 7.8,
+        "weight_grams": 165
+      },
+      "os": {
+        "name": "Android",
+        "version": "16"
+      },
+      "main_camera_features": [
+        {"lens": "50MP Wide", "aperture": "f/1.8", "features": ["OIS", "PDAF"]},
+        {"lens": "12MP Ultra-Wide", "aperture": "f/2.2", "features": []}
+      ],
+      "selfie_camera_features": [
+        {"lens": "20MP", "aperture": "f/2.0", "features": ["HDR"]}
+      ],
+      "memory_gb": 8,
+      "storage_gb": 256,
+      "ip_rating": "IP67"
+    },
+    {
+      "name": "Echo Standard",
+      "brand": "Sonic Devices",
+      "model": "SD-ES1",
+      "price_usd": 599.99,
+      "size": {
+        "display_inches": 6.4,
+        "height_mm": 160.0,
+        "width_mm": 74.0,
+        "thickness_mm": 8.5,
+        "weight_grams": 185
+      },
+      "os": {
+        "name": "Android",
+        "version": "15"
+      },
+      "main_camera_features": [
+        {"lens": "64MP Wide", "aperture": "f/1.9", "features": ["PDAF"]},
+        {"lens": "8MP Ultra-Wide", "aperture": "f/2.2", "features": []}
+      ],
+      "selfie_camera_features": [
+        {"lens": "16MP", "aperture": "f/2.0", "features": []}
+      ],
+      "memory_gb": 6,
+      "storage_gb": 128,
+      "ip_rating": "IP54"
+    },
+    {
+      "name": "Aether Compact",
+      "brand": "AeroTech",
+      "model": "AE-2025C",
+      "price_usd": 899.00,
+      "size": {
+        "display_inches": 6.3,
+        "height_mm": 156.0,
+        "width_mm": 72.0,
+        "thickness_mm": 8.0,
+        "weight_grams": 175
+      },
+      "os": {
+        "name": "Android",
+        "version": "16"
+      },
+      "main_camera_features": [
+        {"lens": "50MP Wide", "aperture": "f/1.8", "features": ["OIS", "PDAF"]},
+        {"lens": "12MP Ultra-Wide", "aperture": "f/2.2", "features": []}
+      ],
+      "selfie_camera_features": [
+        {"lens": "20MP", "aperture": "f/2.2", "features": []}
+      ],
+      "memory_gb": 8,
+      "storage_gb": 256,
+      "ip_rating": "IP68"
+    },
+    {
+      "name": "Chronos Pro",
+      "brand": "TimeWare",
+      "model": "TM-CP3",
+      "price_usd": 649.00,
+      "size": {
+        "display_inches": 6.7,
+        "height_mm": 162.0,
+        "width_mm": 75.0,
+        "thickness_mm": 8.5,
+        "weight_grams": 200
+      },
+      "os": {
+        "name": "Android",
+        "version": "15"
+      },
+      "main_camera_features": [
+        {"lens": "64MP Wide", "aperture": "f/1.7", "features": ["OIS", "PDAF"]},
+        {"lens": "13MP Ultra-Wide", "aperture": "f/2.2", "features": []},
+        {"lens": "5MP Macro", "aperture": "f/2.4", "features": []}
+      ],
+      "selfie_camera_features": [
+        {"lens": "32MP", "aperture": "f/2.0", "features": ["HDR"]}
+      ],
+      "memory_gb": 12,
+      "storage_gb": 256,
+      "ip_rating": "IP53"
+    },
+    {
+      "name": "Spectra Lite",
+      "brand": "Visionary Tech",
+      "model": "VTE-2025L",
+      "price_usd": 699.50,
+      "size": {
+        "display_inches": 6.5,
+        "height_mm": 160.0,
+        "width_mm": 73.0,
+        "thickness_mm": 7.9,
+        "weight_grams": 178
+      },
+      "os": {
+        "name": "Android",
+        "version": "15"
+      },
+      "main_camera_features": [
+        {"lens": "50MP Wide", "aperture": "f/1.8", "features": ["PDAF"]},
+        {"lens": "8MP Ultra-Wide", "aperture": "f/2.2", "features": []},
+        {"lens": "2MP Depth", "aperture": "f/2.4", "features": []}
+      ],
+      "selfie_camera_features": [
+        {"lens": "16MP", "aperture": "f/2.0", "features": []}
+      ],
+      "memory_gb": 8,
+      "storage_gb": 128,
+      "ip_rating": "IP53"
+    },
+    {
+      "name": "Terra Compact",
+      "brand": "Rugged Phones Inc.",
+      "model": "TE-R7C",
+      "price_usd": 549.00,
+      "size": {
+        "display_inches": 5.8,
+        "height_mm": 155.0,
+        "width_mm": 78.0,
+        "thickness_mm": 13.0,
+        "weight_grams": 280
+      },
+      "os": {
+        "name": "Android",
+        "version": "14"
+      },
+      "main_camera_features": [
+        {"lens": "32MP Wide", "aperture": "f/1.9", "features": ["PDAF"]},
+        {"lens": "2MP Macro", "aperture": "f/2.4", "features": []}
+      ],
+      "selfie_camera_features": [
+        {"lens": "13MP", "aperture": "f/2.0", "features": []}
+      ],
+      "memory_gb": 6,
+      "storage_gb": 64,
+      "ip_rating": "IP69K"
+    },
+    {
+      "name": "Luminary Pure",
+      "brand": "BrightStar",
+      "model": "BS-LP1",
+      "price_usd": 499.00,
+      "size": {
+        "display_inches": 6.1,
+        "height_mm": 155.0,
+        "width_mm": 70.0,
+        "thickness_mm": 7.5,
+        "weight_grams": 160
+      },
+      "os": {
+        "name": "Android",
+        "version": "15"
+      },
+      "main_camera_features": [
+        {"lens": "50MP Wide", "aperture": "f/1.8", "features": ["PDAF"]},
+        {"lens": "8MP Ultra-Wide", "aperture": "f/2.2", "features": []}
+      ],
+      "selfie_camera_features": [
+        {"lens": "16MP", "aperture": "f/2.0", "features": []}
+      ],
+      "memory_gb": 8,
+      "storage_gb": 128,
+      "ip_rating": "IP52"
+    },
+    {
+      "name": "Vortex Mini",
+      "brand": "Infinity Mobiles",
+      "model": "IM-VM2",
+      "price_usd": 799.00,
+      "size": {
+        "display_inches": 6.1,
+        "height_mm": 153.0,
+        "width_mm": 71.0,
+        "thickness_mm": 8.0,
+        "weight_grams": 170
+      },
+      "os": {
+        "name": "Android",
+        "version": "16"
+      },
+      "main_camera_features": [
+        {"lens": "50MP Wide", "aperture": "f/1.8", "features": ["OIS", "PDAF"]},
+        {"lens": "12MP Ultra-Wide", "aperture": "f/2.2", "features": []}
+      ],
+      "selfie_camera_features": [
+        {"lens": "20MP", "aperture": "f/2.0", "features": ["HDR"]}
+      ],
+      "memory_gb": 8,
+      "storage_gb": 256,
+      "ip_rating": "IP68"
+    },
+    {
+      "name": "Nexus Flex",
+      "brand": "Link Innovations",
+      "model": "LI-NF1",
+      "price_usd": 1599.99,
+      "size": {
+        "display_inches": 7.8,
+        "height_mm": 158.0,
+        "width_mm": 130.0,
+        "thickness_mm": 6.8,
+        "weight_grams": 290
+      },
+      "os": {
+        "name": "Android",
+        "version": "16"
+      },
+      "main_camera_features": [
+        {"lens": "50MP Wide", "aperture": "f/1.8", "features": ["OIS", "Dual Pixel PDAF"]},
+        {"lens": "13MP Ultra-Wide", "aperture": "f/2.2", "features": ["Autofocus"]},
+        {"lens": "10MP Telephoto", "aperture": "f/2.4", "features": ["3x Optical Zoom", "OIS"]}
+      ],
+      "selfie_camera_features": [
+        {"lens": "10MP (Cover)", "aperture": "f/2.2", "features": []},
+        {"lens": "4MP (Under-display)", "aperture": "f/1.8", "features": []}
+      ],
+      "memory_gb": 16,
+      "storage_gb": 512,
+      "ip_rating": "IPX8"
+    },
+    {
+      "name": "Fusion Compact",
+      "brand": "Synergy Devices",
+      "model": "SD-FC4",
+      "price_usd": 699.00,
+      "size": {
+        "display_inches": 6.3,
+        "height_mm": 158.0,
+        "width_mm": 72.0,
+        "thickness_mm": 8.0,
+        "weight_grams": 175
+      },
+      "os": {
+        "name": "Android",
+        "version": "15"
+      },
+      "main_camera_features": [
+        {"lens": "64MP Wide", "aperture": "f/1.9", "features": ["PDAF"]},
+        {"lens": "8MP Ultra-Wide", "aperture": "f/2.2", "features": []}
+      ],
+      "selfie_camera_features": [
+        {"lens": "16MP", "aperture": "f/2.0", "features": []}
+      ],
+      "memory_gb": 8,
+      "storage_gb": 128,
+      "ip_rating": "IP67"
+    },
+    {
+      "name": "Zenith C",
+      "brand": "Aura Innovations",
+      "model": "AI-ZC",
+      "price_usd": 1299.00,
+      "size": {
+        "display_inches": 6.7,
+        "height_mm": 162.0,
+        "width_mm": 74.0,
+        "thickness_mm": 8.4,
+        "weight_grams": 195
+      },
+      "os": {
+        "name": "Android",
+        "version": "16"
+      },
+      "main_camera_features": [
+        {"lens": "108MP Wide", "aperture": "f/1.7", "features": ["OIS", "PDAF"]},
+        {"lens": "12MP Ultra-Wide", "aperture": "f/2.2", "features": ["Autofocus"]},
+        {"lens": "10MP Telephoto", "aperture": "f/2.4", "features": ["3x Optical Zoom", "OIS"]}
+      ],
+      "selfie_camera_features": [
+        {"lens": "32MP", "aperture": "f/2.0", "features": ["HDR"]}
+      ],
+      "memory_gb": 12,
+      "storage_gb": 256,
+      "ip_rating": "IP68"
+    },
+    {
+      "name": "Orbit Pro",
+      "brand": "Space Mobile",
+      "model": "SM-OP2",
+      "price_usd": 499.00,
+      "size": {
+        "display_inches": 6.5,
+        "height_mm": 161.0,
+        "width_mm": 73.0,
+        "thickness_mm": 8.5,
+        "weight_grams": 185
+      },
+      "os": {
+        "name": "Android",
+        "version": "15"
+      },
+      "main_camera_features": [
+        {"lens": "50MP Wide", "aperture": "f/1.8", "features": ["PDAF"]},
+        {"lens": "8MP Ultra-Wide", "aperture": "f/2.2", "features": []},
+        {"lens": "2MP Macro", "aperture": "f/2.4", "features": []}
+      ],
+      "selfie_camera_features": [
+        {"lens": "16MP", "aperture": "f/2.0", "features": []}
+      ],
+      "memory_gb": 8,
+      "storage_gb": 128,
+      "ip_rating": "IP53"
+    },
+    {
+      "name": "Chronicle Mini",
+      "brand": "Story Devices",
+      "model": "SD-CM1",
+      "price_usd": 399.00,
+      "size": {
+        "display_inches": 6.0,
+        "height_mm": 152.0,
+        "width_mm": 70.0,
+        "thickness_mm": 8.0,
+        "weight_grams": 165
+      },
+      "os": {
+        "name": "Android",
+        "version": "14"
+      },
+      "main_camera_features": [
+        {"lens": "48MP Wide", "aperture": "f/1.9", "features": ["PDAF"]},
+        {"lens": "2MP Depth", "aperture": "f/2.4", "features": []}
+      ],
+      "selfie_camera_features": [
+        {"lens": "13MP", "aperture": "f/2.0", "features": []}
+      ],
+      "memory_gb": 6,
+      "storage_gb": 64,
+      "ip_rating": "IP52"
+    },
+    {
+      "name": "Horizon Compact",
+      "brand": "Panorama Tech",
+      "model": "PT-HC1",
+      "price_usd": 549.00,
+      "size": {
+        "display_inches": 6.2,
+        "height_mm": 155.0,
+        "width_mm": 71.0,
+        "thickness_mm": 8.0,
+        "weight_grams": 170
+      },
+      "os": {
+        "name": "Android",
+        "version": "15"
+      },
+      "main_camera_features": [
+        {"lens": "50MP Wide", "aperture": "f/1.8", "features": ["PDAF"]},
+        {"lens": "8MP Ultra-Wide", "aperture": "f/2.2", "features": []}
+      ],
+      "selfie_camera_features": [
+        {"lens": "16MP", "aperture": "f/2.0", "features": []}
+      ],
+      "memory_gb": 8,
+      "storage_gb": 128,
+      "ip_rating": "IP53"
+    },
+    {
+      "name": "Pulsar Lite",
+      "brand": "Vibe Electronics",
+      "model": "VE-PL",
+      "price_usd": 899.00,
+      "size": {
+        "display_inches": 6.5,
+        "height_mm": 160.0,
+        "width_mm": 73.0,
+        "thickness_mm": 7.8,
+        "weight_grams": 180
+      },
+      "os": {
+        "name": "Android",
+        "version": "16"
+      },
+      "main_camera_features": [
+        {"lens": "50MP Wide", "aperture": "f/1.8", "features": ["OIS", "PDAF"]},
+        {"lens": "12MP Ultra-Wide", "aperture": "f/2.2", "features": []}
+      ],
+      "selfie_camera_features": [
+        {"lens": "20MP", "aperture": "f/2.0", "features": ["HDR"]}
+      ],
+      "memory_gb": 12,
+      "storage_gb": 256,
+      "ip_rating": "IP67"
+    },
+    {
+      "name": "ZenFlow Max",
+      "brand": "Harmony Devices",
+      "model": "HD-ZF-M",
+      "price_usd": 549.00,
+      "size": {
+        "display_inches": 6.8,
+        "height_mm": 164.0,
+        "width_mm": 76.0,
+        "thickness_mm": 8.3,
+        "weight_grams": 195
+      },
+      "os": {
+        "name": "Android",
+        "version": "15"
+      },
+      "main_camera_features": [
+        {"lens": "64MP Wide", "aperture": "f/1.8", "features": ["PDAF"]},
+        {"lens": "8MP Ultra-Wide", "aperture": "f/2.2", "features": []},
+        {"lens": "2MP Macro", "aperture": "f/2.4", "features": []}
+      ],
+      "selfie_camera_features": [
+        {"lens": "16MP", "aperture": "f/2.0", "features": ["Beauty Mode"]}
+      ],
+      "memory_gb": 8,
+      "storage_gb": 256,
+      "ip_rating": "IP53"
+    }
+  ]
+}
